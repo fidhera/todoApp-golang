@@ -37,14 +37,8 @@ Aplikasi Todo sederhana dan efisien yang dibangun menggunakan **Golang** untuk m
    
    Connected to database
 
-   ┌───────────────────────────────────────────────────┐ 
-   │                   Fiber v2.52.6                   │ 
-   │               http://127.0.0.1:2597               │ 
-   │       (bound on host 0.0.0.0 and port 2597)       │ 
-   │                                                   │ 
-   │ Handlers ............. 7  Processes ........... 1 │ 
-   │ Prefork ....... Disabled  PID ............. 18080 │ 
-   └───────────────────────────────────────────────────┘ 
+![image](https://github.com/user-attachments/assets/9ee93beb-598e-45d5-96ba-f3016671363f)
+
 
 4. Copy url **http://127.0.0.1:2597**.
    
